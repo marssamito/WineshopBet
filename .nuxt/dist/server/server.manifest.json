@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/cart.js": "components/cart.js",
+    "components/checkout.js": "components/checkout.js",
+    "components/details.js": "components/details.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/cart.js": "components/cart.js.map",
+    "components/checkout.js": "components/checkout.js.map",
+    "components/details.js": "components/details.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

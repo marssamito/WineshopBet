@@ -1,0 +1,20 @@
+{
+  "Cart": {
+    "description": "Auto imported from components/modal/cart.vue"
+  },
+  "Checkout": {
+    "description": "Auto imported from components/modal/checkout.vue"
+  },
+  "Details": {
+    "description": "Auto imported from components/modal/details.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "PageFooter": {
+    "description": "Auto imported from components/page/PageFooter.vue"
+  },
+  "PageHeader": {
+    "description": "Auto imported from components/page/PageHeader.vue"
+  }
+}
